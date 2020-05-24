@@ -1,0 +1,6 @@
+linux1
+linux2
+linux3
+java
+pyton
+jira
