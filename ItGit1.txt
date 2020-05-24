@@ -6,5 +6,10 @@ pyton
 jira
 learn how to create a website
 learn about web services
+
 how api works
 all about coding
+
+
+done with this copy
+
