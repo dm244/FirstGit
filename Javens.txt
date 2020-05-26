@@ -1,3 +1,6 @@
 create a new project
 create a new java project
 write some java codes
+write some new functions
+write some new codes
+try to write complex codes
