@@ -7,4 +7,5 @@ write a good story
 write some new functions
 write some new codes
 try to write complex codes
+trying some new techniques
 
