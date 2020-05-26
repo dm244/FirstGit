@@ -1,0 +1,3 @@
+create a new project
+create a new java project
+write some java codes
