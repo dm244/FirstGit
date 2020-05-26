@@ -1,6 +1,10 @@
 create a new project
 create a new java project
 write some java codes
+
+create some good codes
+write a good story
 write some new functions
 write some new codes
 try to write complex codes
+
